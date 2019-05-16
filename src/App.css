@@ -1,0 +1,27 @@
+.App {
+  background: #E6E7E8;
+  width: 100%;
+  height: 100%; }
+  .App .rsvp-container {
+    margin: 0 20%;
+    max-width: 1190px !important; }
+  .App * {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale; }
+  .App .logo-fnb img {
+    width: 150px;
+    height: 150px;
+    float: right; }
+  .App .burner {
+    position: relative;
+    height: 300px;
+    box-sizing: border-box;
+    background: #009999;
+    color: #fff;
+    font-family: fnb_sans_bold ,'Courier New', Courier, monospace;
+    padding: 38px;
+    line-height: 151px; }
+  .App .topic {
+    float: left;
+    font-size: 70px; }
